@@ -9,8 +9,8 @@
         <version>4.0.4</version>
         <relativePath/>
     </parent>
-    <groupId>com.cubetiqs.api</groupId>
-    <artifactId>book</artifactId>
+    <groupId>com.cubetiqs</groupId>
+    <artifactId>api-book</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
